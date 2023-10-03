@@ -28,3 +28,5 @@ Banner Bem vindo:
 - no css, copia a estilização 
 - na landing page importa o componente 
 - puxa ele dentro div com /> no final
+
+att
