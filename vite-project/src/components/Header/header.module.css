@@ -1,0 +1,23 @@
+.header{
+    width: 110%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.lista{
+    display: flex;
+    gap: 12px
+}
+
+.link{
+    color: var #457B9D;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
